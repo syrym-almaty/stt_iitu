@@ -1,0 +1,10 @@
+*.wav
+*.aac
+*.zip
+vosk-model-small-ru-0.22/
+model/
+transcription.txt
+__pycache__/
+*.log
+*.tmp
+.env

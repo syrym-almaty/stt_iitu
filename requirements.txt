@@ -1,0 +1,8 @@
+vosk
+pydub
+wave
+requests
+googletrans
+translate
+sentencepiece
+sacremoses
